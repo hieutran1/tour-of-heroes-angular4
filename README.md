@@ -14,6 +14,14 @@ practice angular 4
 
 # Git setting:
 
-## Git authentication:
+## *** Git authentication:
   git remote add origin https://{username:password}@github.com/hieutran1/tour-of-heroes-angular4.git
 
+## *** Git command:
+### git add . => add modified / changed files
+### git commit -m 'message to commit' => commit
+### git push , git pull
+### git help 'command'
+### git status
+
+### ctrl + z (stop)
