@@ -14,5 +14,6 @@ practice angular 4
 
 # Git setting:
 
-## Git authentication:  git remote add origin https://{username:password}@github.com/hieutran1/tour-of-heroes-angular4.git
+## Git authentication:
+  git remote add origin https://{username:password}@github.com/hieutran1/tour-of-heroes-angular4.git
 
