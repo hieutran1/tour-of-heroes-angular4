@@ -11,3 +11,8 @@ practice angular 4
 
 ## 3. ng serve --open / ng serve -o
 ### Note: --open (-o) => open default browser and watcher changes
+
+# Git setting:
+
+## Git authentication:  git remote add origin https://{username:password}@github.com/hieutran1/tour-of-heroes-angular4.git
+
